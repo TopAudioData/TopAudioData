@@ -8,7 +8,7 @@ I'm currently attending the Data Science Bootcamp by Neue Fische - a school and 
 
 ## 📫 Contact
 
-If you have any questions or just want to say hello, feel free to send me an email at ****.p*****@gmx.de
+If you have any questions or just want to say hello, feel free to send me an email at t*****.p*****@gmx.de
 
 Looking forward to hearing from you!
 
