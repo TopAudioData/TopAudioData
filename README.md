@@ -1,10 +1,10 @@
 # Hello, World! 👋 I'm @ToPAudioData
 
-I'm an aspiring data scientist specializing in **Data Science**, **Natural Language Processing**, and **Machine Learning**. I'm excited about the opportunity to derive insights from data and develop innovative solutions.
+I'm a data scientist specializing in **Data Science**, **Natural Language Processing**, and **Machine Learning**. I'm excited about the opportunity to derive insights from data and develop innovative solutions.
 
 ## 🎓 Education
 
-I'm currently attending the Data Science Bootcamp by Neue Fische - a school and pool for digital talent. My studies started on November 27, 2023, and are expected to end on March 1, 2024.
+I completed the Data Science Bootcamp by Neue Fische - a school and pool for digital talent. From November 27, 2023 to March 1, 2024.
 
 ## 📫 Contact
 
