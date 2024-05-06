@@ -3,22 +3,20 @@
 I am Data Scientist with nearly twenty years of experience in audiology and hearing acoustics with four years international experience in Switzerland. I'm excited about the opportunity ti use **Data Science**, **Natural Language Processing**, and **Machine Learning** to derive insights from data and develop innovative solutions.
 
 ## 🎓 Education
-
+Graduate Engineer (FH) Medical Technology/Audiology   [Diplom Ingenieur (FH)]
 Graduated from the Data Science Bootcamp @ [neue fische](https://github.com/neuefische) from November 27, 2023 to March 1, 2024. Where I learned and practiced all important Data Science skills with a wonderful group of teammates and really nice and committed coaches. 
 
-Graduate Engineer (FH) Medical Technology/Audiology   [Diplom Ingenieur (FH)]
+
 
 
 ## 📫 Contact
 
-If you have any questions or just want to say hello, feel free to:
-- connect with me at LinkedIn   www.linkedin.com/in/tobias-poetzl <a href="https://www.linkedin.com/in/tobias-poetzl/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-- send me an email at t*****.p*****@gmx.de (replace * with my name ) 
-</a>
-
+If you have any questions or just want to say hello, feel free to:   
+- connect with me at LinkedIn   www.linkedin.com/in/tobias-poetzl  
+- send me an email at t*****.p*****@gmx.de (replace * with my name )  
+   
 Looking forward to hearing from you!
-
+   
 📍 Lübeck, DE
 
 **Languages and Tools:**  
