@@ -1,13 +1,10 @@
 ## Hello! 🤗
 
-I am Data Scientist with nearly twenty years of experience in audiology and hearing acoustics with four years international experience in Switzerland. I'm excited about the opportunity ti use **Data Science**, **Natural Language Processing**, and **Machine Learning** to derive insights from data and develop innovative solutions.
+I am a **Data Scientist** with nearly twenty years of experience in **audiology and hearing acoustics** with four years international experience in Switzerland. I'm excited about the opportunity ti use **Data Science**, **Natural Language Processing**, and **Machine Learning** to derive insights from data and develop innovative solutions.
 
 ## 🎓 Education
-Graduate Engineer (FH) Medical Technology/Audiology   [Diplom Ingenieur (FH)]
+Graduate Engineer (FH) Medical Technology/Audiology   [Diplom Ingenieur (FH)]   
 Graduated from the Data Science Bootcamp @ [neue fische](https://github.com/neuefische) from November 27, 2023 to March 1, 2024. Where I learned and practiced all important Data Science skills with a wonderful group of teammates and really nice and committed coaches. 
-
-
-
 
 ## 📫 Contact
 
