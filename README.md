@@ -1,6 +1,6 @@
 ## Hello! 🤗
 
-I am a **Data Scientist** with nearly twenty years of experience in **audiology and hearing acoustics** with four years international experience in Switzerland. I'm excited about the opportunity ti use **Data Science**, **Natural Language Processing**, and **Machine Learning** to derive insights from data and develop innovative solutions.
+I am a **Data Scientist** with over twentyfive years of experience in **audiology and hearing acoustics** with four years international experience in Switzerland. I'm excited about the opportunity to use **Data Science**, **Natural Language Processing**, and **Machine Learning** to derive insights from data and develop innovative solutions.
 
 ## 🎓 Education
 Graduate Engineer (FH) Medical Technology/Audiology   [Diplom Ingenieur (FH)]   
